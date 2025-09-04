@@ -9,7 +9,7 @@ How it Works:
 Known Issues:
 ------------
 
-* When paused while "loop_delay" timer is running, pauses immediately but when pressed the key/key-combination for pause while moving the cursor, it will pause only after completing the loop.
+* When paused while "loop_delay" timer is running, pauses immediately but when pressed the key/key-combination for pause while the cursor is moving, it will pause only after completing the loop.
 
 * When "loop_delay" timer is running, keeping the cursor placed on Top Left corner, doesn't stop the script. It only does it after the "delay_loop" is completed.
 
