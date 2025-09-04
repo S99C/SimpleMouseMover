@@ -10,6 +10,7 @@ Known Issues:
 * When paused while "loop_delay" timer is running, pauses immediately but when pressed the key/key-combination for pause while the cursor is moving, it will pause only after completing the loop.
 * When "loop_delay" timer is running, keeping the cursor placed on Top Left corner, doesn't stop the script. It only does it after the "delay_loop" is completed.
 * "start_delay" and "loop_delay" values don't display on first run if user provides the value, but works as expected.
+* User defined 'Hotkey/Key-combnations' for pause/resume will come in future versions.
 
 Libraries Used:
 --------------
