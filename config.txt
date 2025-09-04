@@ -1,2 +1,0 @@
-start_delay=3
-loop_delay=5
