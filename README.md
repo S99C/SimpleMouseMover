@@ -14,3 +14,10 @@ Known Issues:
 * When "loop_delay" timer is running, keeping the cursor placed on Top Left corner, doesn't stop the script. It only does it after the "delay_loop" is completed.
 
 * "start_delay" and "loop_delay" values don't display on first run if user provides the value, but works as expected.
+
+
+Libraries Used:
+--------------
+
+* PyAutoGui
+* volume-control
