@@ -1,4 +1,4 @@
-How it Works:
+Steps to Run:
 ------------
 * Just download the latest release of the 'SimpleMouseMover' Zip file, extract it in a folder, and run the executable.
 * First time the script is run, it will ask the user to provide "start_delay" and "loop_delay" value.
